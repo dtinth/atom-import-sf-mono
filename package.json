@@ -1,7 +1,7 @@
 {
   "name": "import-sf-mono",
   "main": "./lib/import-sf-mono",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Import the SF Mono font from Terminal.app",
   "keywords": [
   ],
